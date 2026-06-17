@@ -13,6 +13,10 @@
 - CSS
 - JavaScript
 
+## Screenshot
+
+![Landing Page](assets/screenshot.png)
+
 ## Live Demo
 https://prodesk-landing-page-vercel.vercel.app/
 
