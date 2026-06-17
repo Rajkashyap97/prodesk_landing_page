@@ -14,7 +14,7 @@
 - JavaScript
 
 ## Live Demo
-(Paste your Vercel URL here)
+https://prodesk-landing-page-vercel.vercel.app/
 
 ## GitHub Repository
 https://github.com/Rajkashyap97/prodesk_landing_page
